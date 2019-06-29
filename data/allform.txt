@@ -1,0 +1,3 @@
+Владимир|Филиппов|35|89149232822|irk|mila-filipp@yandex.ru|Bus|yes|Array|2019-06-29-20-31-36|127.0.0.1|n
+владимир|Филиппов|35|89149232822|irk|mila-filipp@yandex.ru|Bus|yes|Array|2019-06-29-20-34-17|127.0.0.1|n
+Милена|Филиппова|19|89149232822|irk|mila-filipp@yandex.ru|Tex|yes|Array|2019-06-29-20-48-22|127.0.0.1|n
